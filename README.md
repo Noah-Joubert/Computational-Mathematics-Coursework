@@ -1,2 +1,2 @@
 # Computational-Mathematics-Coursework
-Coursework as part of the first year Computational Mathematics module in the Mathematics course at Oxford University.
+I completed this coursework as part of the first year Computational Mathematics module in the Mathematics undergraduate course at Oxford University. The coursework consisted of three research tasks, of which two were to be completed. The tasks are detailed in coursework manual pdf. I chose Project A which is an investigation Random Fourier Series, and Project B which focuses on type of fractal called Julia Sets. In repository contains my source code and the research report pdfs.
